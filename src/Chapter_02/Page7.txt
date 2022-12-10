@@ -1,5 +1,5 @@
-Added this from github 
+Added this from GitHub
 
-dont do this normally
+don't do this normally
 
 we are practicing and downwards flow
