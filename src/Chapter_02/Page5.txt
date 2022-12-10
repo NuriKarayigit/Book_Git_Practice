@@ -2,4 +2,4 @@ started part 2 at page 5
 
 more thing to come
 
-editor: add more to store
+editor: add more to store, java is cool
